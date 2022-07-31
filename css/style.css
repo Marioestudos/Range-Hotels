@@ -13,7 +13,18 @@ h5,
 h6 {
     font-family: 'Oxygen', sans-serif;
 }
-
+/* btn*/
+.btn{
+    padding: 0.75em  2.5em;
+   background: #58c4c4;
+   border-radius: 5px;
+   text-decoration: none;
+   color: white;
+   margin-top: 0.5em;
+}
+.btn:hover{
+    background: #37a0a0;
+}
 .nav-header {
     background: #612674;
     text-align: center;
@@ -46,4 +57,20 @@ margin-bottom: 15px;
 .top-header-logo{
     height: 100px;
     margin: 0.5em;
+}
+/* section Get started*/
+.get-started{
+    padding: 1em;
+    text-align: center;
+    background: #f6f6f6;
+}
+.get-started-title{
+color: #612674;
+font-size: 1.375em;
+}
+.get-started-subtitle{
+    color: #a87bb7;
+    font-size: 1em;
+  line-height: 1.5;
+
 }
