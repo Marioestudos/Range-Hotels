@@ -74,3 +74,25 @@ font-size: 1.375em;
   line-height: 1.5;
 
 }
+.main-art{
+    margin-top: 1px;
+}
+.art{
+    padding: 2em;
+    background: #f6f6f6;
+    text-align: center;
+}
+.title{
+    font-size: 1.25em;
+    color: #652e78;
+  text-transform: uppercase;
+}
+    .art p{
+        line-height: 1.5;
+        color: #222;
+        text-justify: newspaper;
+    }
+  .art span[class^=icon]{
+    font-size: 4em;
+    color: #652e78;
+  }
